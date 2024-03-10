@@ -8,7 +8,7 @@
 
 ![8 drawio](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/3e4bf101-8dbf-4a00-88de-f0f211b3ffc0)
 
-![Uploading 8_1.drawio.png…]()
+![8_1 drawio](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/ddb42ea0-8226-447f-94e1-5f6f3f6452f7)
 
 ![8_2 drawio](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/5481f9d5-de7c-4aec-964f-a57f29487256)
 
