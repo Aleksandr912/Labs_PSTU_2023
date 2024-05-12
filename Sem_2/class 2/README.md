@@ -21,7 +21,7 @@
 Средний балл – float
 
 ## (2) Реализация 
-- приколюшная main функция:
+-main функция:
 ```cpp
 #include "Student.h"
 #include <iostream>
@@ -146,10 +146,7 @@ public:
 	void show();
 };
 ```
-## (3) UML - диаграмма
-<image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Class_Labs%20/Lab_2/UML_CL2.png">
-  
-## (4) Тесты
+## (3) Тесты
 ```cpp
 /*
 			Test 1
