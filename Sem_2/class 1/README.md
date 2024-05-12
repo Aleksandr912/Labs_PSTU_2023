@@ -72,12 +72,6 @@ public:
 
 #endif
 ```
-## (3) UML - диаграмма
-<image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Class_Labs%20/Lab_1/UML_CL1.png">
-  
-## (4) Тесты
-<image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Class_Labs%20/Lab_1/TEST_1CL.png">
-
 ## (5) Ответы на вопросы
 1. **Что такое класс?**
 
