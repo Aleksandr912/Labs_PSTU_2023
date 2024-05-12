@@ -15,7 +15,7 @@
   -  сложение временных интервалов (учесть, что в минуте не может быть более 60 секунд) 
   -  сравнение временных интервалов (==) 
 ## (2) Реализация 
-- приколюшная main функция:
+-main функция:
 ```cpp
 #include "Time.h" 
 #include <iostream> 
@@ -145,10 +145,10 @@ public:
 };
 ```
 ## (3) UML - диаграмма
-<image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Class_Labs%20/Lab_3/UML_3CL.png">
-  
+![UML_3CL](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/6d3d2360-90ad-49c4-b365-10955a5a9061)
+
 ## (4) Тест
-<image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Class_Labs%20/Lab_3/изображение_2024-04-21_151118146.png">
+![изображение_2024-04-21_151118146](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/4fcbca10-d057-4226-8f98-dc878bf9c31a)
 
 ## (5) Ответы на вопросы
 **1. Для чего используются дружественные функции и классы?**
