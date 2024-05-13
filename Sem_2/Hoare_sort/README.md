@@ -1,6 +1,5 @@
-# 1) Задание
 ## Реализовать сортировку Хоара
-# 2) Код программы
+ Код программы
 ```cpp
 #include <iostream>
 using namespace std;
@@ -87,15 +86,15 @@ int main()
     return 0;
 }
 ```
-# 3) Блок-схема
- <image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Lab_Hoare_sort/diagrams/Hoare_sort_creat_arr.png">
-  <image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Lab_Hoare_sort/diagrams/Hoare_sort_main.png">
-   <image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Lab_Hoare_sort/diagrams/Hoare_sort_menu.png">
-    <image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Lab_Hoare_sort/diagrams/Hoare_sort_partition.png">
-     <image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Lab_Hoare_sort/diagrams/Hoare_sort_quickSort.png">
-      <image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Lab_Hoare_sort/diagrams/Hoare_sort_show_array.png">
-  
-# 4) Тесты
+# Блок-схема
+![Hoare_sort_show_array](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/30333683-a3bb-4699-8e8e-7ef4f474fbff)
+![Hoare_sort_quickSort](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/70bfc473-6c27-4a49-ace9-467bf779711d)
+![Hoare_sort_partition](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/51eccf74-c9c6-4293-b141-497cd92b5a0f)
+![Hoare_sort_main](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/c0c57d18-5d4e-472c-8714-2dee672e6570)
+![Hoare_sort_menu](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/e37aa98d-beec-4972-8910-fc98537d6877)
+![Hoare_sort_creat_arr](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/8d7a899b-9e9d-4f11-a11a-eb783d59e4a1)
+
+# Тесты
 ```cpp
 /*
     1 Test
