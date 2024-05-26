@@ -1,7 +1,7 @@
 # Лабораторная работа  No9 
 # Обработка исключительных ситуаций. 
 
-## (1) Задание
+## Задание
 1.  Реализовать класс, перегрузить для него операции, указанные в варианте. 
 2.  Определить исключительные ситуации.  
 3.  Предусмотреть генерацию исключительных ситуаций.
@@ -12,9 +12,9 @@
 () – определение размера вектора; 
 + число – добавляет константу ко всем элементам вектора; 
 - n- удаляет n элементов из конца вектора.
-## (2) Реализация 
+## Реализация 
 ### 1 Вариант реализации
-- приколюшная main функция:
+- main функция:
 ```cpp
 #include "Vector.h"
 #include <iostream>
@@ -201,7 +201,7 @@ public:
 };
 ```
 ### 2 Вариант реализации
-- приколюшная main функция:
+- main функция:
 ```cpp
 #include "Vector.h" 
 #include "Error.h" 
@@ -389,12 +389,13 @@ public:
 };
 ```
 
-## (3) UML - диаграмма
+## UML - диаграмма
 ### 1 вариант реализации
-<image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Class_Labs%20/Lab_9/Method_1/UML_9CL.png">
+![UML_9CL](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/791ab8f0-f7e8-4747-9c0f-62c93dfa1cf0)
 
 ### 2 вариант реализации
-<image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Class_Labs%20/Lab_9/Method_2/UML_9CL.png">
-  
-## (4) Тесты
-<image src ="https://github.com/MishaNyasha/Labs_PSTU_2023/blob/main/Sem_2/Labs/Class_Labs%20/Lab_9/Method_1/изображение_2024-04-21_215231461.png">
+![UML_9CL](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/90251f4a-2106-4b78-bc27-2fc1f5322f1b)
+
+## Тесты
+![изображение_2024-04-21_215231461](https://github.com/Aleksandr912/Labs_PSTU_2023/assets/154664349/558fcb9d-09c2-4cb0-a9a6-e4c033fd91ba)
+
